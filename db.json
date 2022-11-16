@@ -1,0 +1,454 @@
+{
+	"storeItems": [
+		{
+			"id": 1,
+			"name": "Rogue Starter Acoustic Guitar Blue Burst",
+			"description": "The small-bodied Rogue Starter Acoustic Guitar is an amazing deal for a starter guitar. Its smaller profile (7/8 scale) makes it very playable for kids or aspiring guitarists with smaller body frames and hands. It has a maple neck and select hardwood fretboard which produce an exquisite tone.Check the drop-down menu to the right to select from one of five colors.Case sold separately.",
+			"image": "/img/acoustic/1-720x720.jpg",
+			"price": "79.99",
+			"rating": "4.8",
+			"category": "1",
+			"date": ""
+		},
+		{
+			"id": 2,
+			"name": "Rogue RA-090 Concert Acoustic Guitar Black",
+			"description": "The super-affordable Rogue RA-090 Concert Acoustic Guitar is an excellent entry-level 25.4 in. scale guitar with laminate whitewood body and top finished off by a natural gloss to keep it in peak condition for years. Other features include a nato C-shaped neck, simulated rosewood fingerboard, simulated belly bridge, and an ivory color plastic saddle and nut.",
+			"image": "/img/acoustic/2-720x720.jpg",
+			"price": "99.99",
+			"rating": "4.1",
+			"category": "1",
+			"date": ""
+		},
+		{
+			"id": 3,
+			"name": "Fender CD-60SCE Dreadnought Acoustic-Electric Guitar Natural",
+			"description": "Combining powerful onboard electronics—including a built-in tuner—with great tone and easy playability, the CD-60SCE is ideal for beginning to intermediate level players who are ready to plug in. Featuring a Venetian-cutaway body for easy upper-fret access, a solid spruce top for increased volume and crisp sound, easy-to-play neck, mahogany back and sides, the CD-60SCE is perfect for the couch, the campfire or the coffeehouse—anywhere you want classic Fender playability and sound.",
+			"image": "/img/acoustic/3-720x720.webp",
+			"price": "349.99",
+			"rating": "4.9",
+			"category": "1",
+			"date": ""
+		},
+		{
+			"id": 4,
+			"name": "Fender CD-60S Dreadnought Acoustic Guitar Natural",
+			"description": "The re-designed CD-60S boasts upgraded features at an attractive price, including a solid spruce top, rolled fingerboard edges and a new ‘Easy-to-Play’ neck shape. The CD-60S is an entry-level Classic Design model and features mahogany back and sides and a walnut fingerboard. The dreadnought-sized body provides traditional full-bodied tone with plenty of projection. A great choice for any aspiring player, the CD-60S delivers a bold playing experience.",
+			"image": "/img/acoustic/4-720x720.webp",
+			"price": "229.99",
+			"rating": "3.9",
+			"category": "1",
+			"date": ""
+		},
+		{
+			"id": 5,
+			"name": "Guild OM-240CE Orchestra Acoustic-Electric Guitar Dark Blue Burst",
+			"description": "This mid-sized orchestra-shaped acoustic is equally suited for strumming and fingerpicking, and produces a sweet, balanced tone. The perfect choice for the versatile musician, the OM-240CE features a solid Sitka spruce top, mahogany sides, arched mahogany back and an elegant cutaway for access to higher frets.Guild’s signature arched back design allows for great volume and projection, long sustain and a lush, full sound. The OM-240CE features Guild’s AP-1 pickup, a bone nut and saddle, pearloid rosette, period-correct tortoiseshell pickguard and a matte polyurethane finish.Case sold separately.",
+			"image": "/img/acoustic/5-720x720.webp",
+			"price": "529.99",
+			"rating": "4.5",
+			"category": "1",
+			"date": ""
+		},
+		{
+			"id": 6,
+			"name": "Martin Special X Style 000 Cutaway Acoustic-Electric Guitar Black",
+			"description": "Part of Martin's X Series, this Special X Style 000 cutaway acoustic-electric guitar combines world-famous Martin sound with the contemporary playability of an electric guitar. The body is constructed with Martin’s forest-friendly Jett Black HPL to give you an attractive visual look. 'This guitar was crafted to be a 'player's dream.The Special X Style 000 cutaway acoustic-electric guitar features a very playable laminate birch neck with a High Performance Neck shape. This precision-cut neck has fast FSC Certified Richlite fingerboard, and a 1-3/4' nut width, to give you a comfortable spacing between the strings. Looking for electronics? This Special X Style 000 cutaway guitar comes complete with an onboard Fishman MX preamp. This soundhole-mounted-preamp features easy-to-use rotary controls for Volume and Tone. The controls are mounted conveniently under the soundhole for easy access while you are performing. All you need to do is plug in and play. You’ll have a studio-quality sound right out of the box.This guitar is everything you’ve come to expect from Martin, at a price that just about anyone can afford. Pick one up. You’ll love the sound and playability of this fine instrument.This Special X Style 000 cutaway acoustic-electric comes with a soft gig bag.",
+			"image": "/img/acoustic/6-720x720.jpg",
+			"price": "589.99",
+			"rating": "4.0",
+			"category": "1",
+			"date": ""
+		},
+		{
+			"id": 8,
+			"name": "Fender Acoustasonic Telecaster Ebony Fingerboard Acoustic-Electric Guitar Black",
+			"description": "The Ibanez AEG acoustic/electric guitar has been well-accepted for more than two decades for its easy playability. With the new AEG70 Grand Concert, Ibanez has renewed features of this acoustic/electric guitar in accordance with the changing music and fashion trends, especially as it relates to electronics. The look that Ibanez is going for now with the AEG70 is a focus on the concept of “simple and easy control.”The Ibanez AEG70 begins with a redeveloped preamp—the Ibanez AEQ-TTS, a small and simple-faced preamp that has only two control knobs: volume and shape. The at-a-glance tone control of the Ibanez AEG70 offers natural acoustic sound in the center position, making it possible for players to adjust the tone easily and enabling them to create from low, fat and powerful sound to bright and crispy sound with the turn of one knob. The AEG70’s new, easy-to-read onboard tuner with LCD (liquid crystal display) is located on the preamp. The Ibanez AEG70 also comes with a simplified rosette, a binding and an ornament on headstock, all of which adds a sharp and stylish atmosphere to the guitar.Other features of the Ibanez AEG70 include a flamed maple top and Sapele back and sides, Ibanez T-bar II undersaddle pickup, which equalizes the volume from each string and delivers a well-balanced signal, and special bulb-shaped Ibanez Advantage bridge pins for easy string installation.",
+			"image": "/img/acoustic/8-720x720.webp",
+			"price": "1,749.99",
+			"rating": "4.0",
+			"category": "1",
+			"date": ""
+		},
+		{
+			"id": 9,
+			"name": "Godin xtSA Electric Guitar Transparent Black",
+			"description": "The Godin xtSA Electric Guitar's sound power begins with three distinct voices: electric guitar, acoustic guitar and synth controller. The xtSA delivers big time electric sounds via the Godin humbucker-single-humbucker pickup configuration. Thanks to a special 5-way switch setup, extra meaty humbucker tones co-exist with glassy split-coil sounds in the second and fourth positions.Turn down the electric output and raise the volume on the RMC transducer saddles and the xtSA sounds like an authentic acoustic guitar. The acoustic voice of the xtSA is enhanced by an onboard preamp with a three-way graphic EQ. The two outputs are set up so that the electric and acoustic voices can be blended in the guitar using a single patch cord or at the amp/mixer using both outputs.The icing on the xtSA cake comes in the form of its synth tracking. As with all Godin synth-ready instruments, a built-in 13-pin connector provides direct access to all Roland GR-Series synths as well as most other 13-pin devices.All of this sound power would be a lot less interesting if the guitar didn't feel great. Thanks to the same 25' scale mahogany neck used on the Godin flagship LGX-SA guitar, this is a very comfortable guitar to play. The ebony fingerboard is shaped with Godin's ergocut technique and equipped with medium jumbo frets. The body is made from a silverleaf maple center with poplar wings and decorated with a figured maple veneer on top.The Natural Koa Godin xtSA guitar has a highly figured koa top. Light Burst and Transparent Black Godin xtSA guitars have a flamed top.Includes a gig bag.",
+			"image": "/img/electric/1-720x720.jpg",
+			"price": "2,099.99",
+			"rating": "4.1",
+			"category": "2",
+			"date": ""
+		},
+		{
+			"id": 10,
+			"name": "Sterling by Music Man John Petrucci JP70 7-String Electric Guitar Stealth Black",
+			"description": "Born out of the overwhelming request of fans and players worldwide, the John Petrucci JP70 7-String Electric Guitar takes the player to new lows and musical highs. Matched, special design ceramic magnet high-output pickups, 3-way pickup switching, and the venerable Music Man-approved Sterling By Music Man recessed Modern Tremolo make this an exceptional entry into the 7-string world.",
+			"image": "/img/electric/2-720x720.jpg",
+			"price": "599.99",
+			"rating": "4.4",
+			"category": "2",
+			"date": ""
+		},
+		{
+			"id": 11,
+			"name": "Squier Bullet Mustang HH Electric Guitar Black",
+			"description": "Perfect for the raucous sound of indie music, the Bullet Mustang HH is just plain fun to play. Powered by a pair of giant-sounding humbucking pickups, it sports a comfortable “C”-shaped neck with a modern 12' radius fingerboard and a modern six-saddle hardtail bridge. A tonal powerhouse that punches well above its weight, the Bullet Mustang HH is the ideal instrument to power your next hit.",
+			"image": "/img/electric/3-720x720.jpg",
+			"price": "199.99",
+			"rating": "4.3",
+			"category": "2",
+			"date": ""
+		},
+		{
+			"id": 12,
+			"name": "Squier Bullet Stratocaster HSS HT Electric Guitar Black",
+			"description": "The Bullet Strat HSS HT is a simple, affordable and practical guitar designed for beginners and students. Classic styling that includes the added benefit of a one humbucking/ two single-coil pickup configuration—other features include 5-way switching, hardtail bridge, and a maple neck with Indian Laurel fingerboard and 21 frets",
+			"image": "/img/electric/4-720x720.jpg",
+			"price": "199.99",
+			"rating": "4.3",
+			"category": "2",
+			"date": ""
+		},
+		{
+			"id": 13,
+			"name": "Fender Player Series Telecaster Maple Fingerboard Limited-Edition Electric Guitar Surf Pearl",
+			"description": "The Player Series Telecaster electric guitar is pure Fender, through and through. The feel, the style and, most importantly, the sound—they’re all there, waiting for you to make them whisper or wail for your music. Versatile enough to handle almost anything you can create and durable enough to survive any gig, this workhorse is a trusty sidekick for your musical vision. This model comes in a limited-edition Surf Pearl finish. Case sold separately.",
+			"image": "/img/electric/5-720x720.jpg",
+			"price": "849.99",
+			"rating": "4.4",
+			"category": "2",
+			"date": ""
+		},
+		{
+			"id": 14,
+			"name": "ESP LTD MH-1000 Evertune Electric Guitar Transparent Black",
+			"description": "As part of the LTD Deluxe Series designed for professional musicians, the LTD MH-1000 EverTune gives you more than you bargained for. It offers set-thru construction, meaning the neck extends deeply into the guitar's body cavity, offering unparalleled access to the upper frets with a smooth heel joint. It has a mahogany body with a flamed maple top in a See Thru Black finish, highlighting the great look of the figured wood grain.It also features a three-piece thin U-shaped maple neck, and an ebony fingerboard with 24 extra-jumbo frets. High-class touches are included, like its multiple white binding and Grover tuners. But the MH-1000 EverTune takes things a step further with the inclusion of active EMG 85 (neck) and EMG 81 (bridge) pickup for tones that range from dark and menacing through screaming and aggressive. Finally, the EverTune constant tension bridge ensures that almost any conditions, your guitar will stay in perfect tune, and have incredibly accurate intonation at every point on the fingerboard. Case sold separately.",
+			"image": "/img/electric/6-720x720.webp",
+			"price": "1,399.00",
+			"rating": "3.9",
+			"category": "2",
+			"date": ""
+		},
+		{
+			"id": 15,
+			"name": "Fender Player Stratocaster HSS Plus Top Maple Fingerboard Limited-Edition Electric Guitar Blue Burst",
+			"description": "Over the decades, players have been continually inspired by the sound of a Strat. From the clarity of the high end, through the gut punch of the mids and the solid lows, it's a sound that's helped define what an electric guitar should be—versatile enough for any style and broad enough for any player to find an individual voice.This limited-edition Player Stratocaster HSS Plus Top maple fingerboard electric guitar puts all of the classic features of the Strat at your fingertips while adding a modern edge, plus a bridge-position humbucker for a little more rock-and-roll attitude. With a beautifully flamed maple top over a solid alder body, a 22-fret maple fingerboard with a contemporary 9.5' radius for easy bending and an updated 2-point fulcrum tremolo bridge, the Player Stratocaster HSS Plus Top is primed and ready to carry you along your musical voyage.If you're the kind of Strat player who wants more punch out of the bridge position, this distinctive limited-edition Fender Stratocaster HSS is made for you. It's got that classic look and feel that only a Strat can deliver, with the added muscle of a humbucking pickup, so you can go from glassy single-coil tones to heavyweight growl and scream with the flip of a switch. This special Strat features a cool look with Blue Burst finish and black pickguard.",
+			"image": "/img/electric/7-720x720.webp",
+			"price": "909.99",
+			"rating": "4.3",
+			"category": "2",
+			"date": ""
+		},
+		{
+			"id": 16,
+			"name": "Fender Player Telecaster Plus Top Maple Fingerboard Limited-Edition Electric Guitar Blue Burst",
+			"description": "The Limited-Edition Player Telecaster Plus Top is a great entry into the world of Fender—especially for new players—but its build quality and playability make it perfect for gigging pros, too. Sporting a gloss-finished AA flame maple top, this Tele is a real looker and equally outstanding when it comes to sound: dual Player Series single coils prove that the Plus Top can fit into any musical style with classic Fender tone.",
+			"image": "/img/electric/8-720x720.webp",
+			"price": "879.99",
+			"rating": "4.3",
+			"category": "2",
+			"date": ""
+		},
+		{
+			"id": 17,
+			"name": "ESP LTD MH-1000HT Electric Guitar Black Fade",
+			"description": "The M-1000HT offers neck-thru-body construction with alder body and extra thin U-shaped three-piece maple neck (that features a natural satin finish on the back for supreme speedy playability). Pickups on this new model are direct-mounted Fishman Fluence Modern Humbuckers (Alnico in the neck position, Ceramic in the bridge), with a push-pull control to activate the second voicing. It also features a Hipshot hardtail bridge with a string-thru-body design. Case sold separately.",
+			"image": "/img/electric/9-720x720.webp",
+			"price": "1,299.00",
+			"rating": "5.0",
+			"category": "2",
+			"date": ""
+		},
+		{
+			"id": 18,
+			"name": "ESP LTD Eclipse '87 NT Electric Guitar Rainbow Crackle",
+			"description": "ESP first started in 1975 as a small repair shop in Tokyo, but toward the mid-’80s, their guitars and basses started to grab the attention of players around the world. The ESP ’87 series features faithful recreations of this set of instruments from ESP’s 1987 catalog. Unlike the current single-cutaway Eclipse shape, the original ESP Eclipse was based on the TE archtop, which is the basis of this LTD Eclipse ’87 NT electric guitar. This guitar offers neck-thru-body construction with a mahogany body and 3-piece maple neck. The ’87 Series Eclipse models also feature a set of Seymour Duncan ’59 (neck) and JB (bridge) pickup set (with original style bobbins and a push-pull control to split the coils), and TonePros locking TOM bridge and tailpiece.",
+			"image": "/img/electric/10-720x720.webp",
+			"price": "1,199.00",
+			"rating": "5.0",
+			"category": "2",
+			"date": ""
+		},
+		{
+			"id": 19,
+			"name": "ESP M-1000 Electric Guitar Natural Purple Burst",
+			"description": "",
+			"image": "/img/electric/11-720x720.webp",
+			"price": "1,399.00",
+			"rating": "1.2",
+			"category": "2",
+			"date": ""
+		},
+		{
+			"id": 20,
+			"name": "Sterling by Music Man Mariposa Electric Guitar Imperial White",
+			"description": "Designed in collaboration with Omar Rodríguez-López of The Mars Volta and At the Drive-In, the Mariposa from Sterling by Music Man is a true stunner in both looks and sound. A unique body shape and pickguard provide an eye-catching visual while locking tuners, three way switching and two humbucking pickups controlled by separate volume knobs deliver virtually endless tonal options. With plenty of versatility to explore, the Mariposa electric guitar lives up to the standards of the talented band leader turned solo artist.",
+			"image": "/img/electric/12-720x720.jpg",
+			"price": "599.99",
+			"rating": "4.9",
+			"category": "2",
+			"date": ""
+		},
+		{
+			"id": 21,
+			"name": "Squier Contemporary Telecaster RH Roasted Maple Fingerboard Electric Guitar Shoreline Gold",
+			"description": "This Squier Contemporary Telecaster RH roasted maple fingerboard electric guitar brings modern features and bold aesthetics to an iconic Fender platform to satisfy today’s most discerning and daring players. At the heart of this guitar is a SQR rail humbucking bridge pickup and a Squier SQR Atomic humbucking neck pickup. This pickup combination offers a versatile range of massive genre-defying tones without hum. The roasted maple neck was chosen for its optimal tone and stability, and a sculpted neck design allows for improved access all the way to the 22nd fret. High-performance components round out the feature list and include a string-through-body hardtail bridge for ideal body resonance, and a set of sealed-gear tuning machines with split shafts for smooth tuning action and easy restringing. Eye-catching styling cues include stealthy black hardware and a sleek matching painted headstock with chrome logos for a premium look.",
+			"image": "/img/electric/13-720x720.webp",
+			"price": "459.99",
+			"rating": "4.2",
+			"category": "2",
+			"date": ""
+		},
+		{
+			"id": 22,
+			"name": "ESP LTD EC-1000 Electric Guitar See Thru Purple",
+			"description": "The ESP LTD EC-1000 electric guitar is ready for pro-level performances in any genre of music. It features a stunning quilted maple top with a See Thru finish, a set-thru 3-piece mahogany neck at a classic 24.75” scale, and a mahogany body The Macassar ebony fingerboard is topped with ESP flag inlays and 24 extra-jumbo stainless steel frets for longevity and smooth string bending. The LTD EC-1000’s sound is powered by a versatile set of Fishman Fluence pickups. Additional appointments include LTD locking tuners, a TonePros locking Tune-O-Matic bridge and tailpiece, and black hardware.",
+			"image": "/img/electric/14-720x720.webp",
+			"price": "1,199.99",
+			"rating": "3.2",
+			"category": "2",
+			"date": ""
+		},
+		{
+			"id": 23,
+			"name": "D'Angelico Premier Series Bedford SH Limited-Edition Electric Guitar With Tremolo Fiesta Red",
+			"description": "The limited-edition D'Angelico Premier Bedford SH electric with tremolo is available exclusively at Guitar Center. Featuring a sleek, modern f-hole design on the upper bout, the Bedford SH integrates a warm acoustic element into a three-pickup electronics configuration that offers a bold variety of tones. The combination of two Duncan Designed single coils in the neck and middle positions, followed by a Duncan Designed mini-humbucker in the bridge, creates a uniquely bold, but familiarly spanky tonal palette. A 5-way blade makes tone selection simple and the 6-point tremolo offers versatile vibe.",
+			"image": "/img/electric/15-720x720.webp",
+			"price": "599.99",
+			"rating": "4.2",
+			"category": "2",
+			"date": ""
+		},
+		{
+			"id": 24,
+			"name": "Squier Affinity Telecaster HH Electric Guitar With Matching Headstock Metallic Black",
+			"description": "The Squier Affinity Series Telecaster HH is a fantastic entry-level guitar for beginners seeking Fender style that won’t break the bank. Whether it’s a first guitar or the next guitar in a collection, this Affinity Tele offers a host of player-friendly enhancements. Featuring a lightweight and comfortable design, a slim C neck and smooth maple fingerboard, the Squier Affinity HH Telecaster makes it easy to focus on learning chords, scales and riffs. Two newly voiced humbucking pickups feature an open-coil design for a brighter, tighter tone. With cosmetic upgrades and improved hardware, there’s a lot to love about this Squier Tele. Including that it’s now available at Guitar Center.",
+			"image": "/img/electric/16-720x720.jpg",
+			"price": "359.99",
+			"rating": "4.0",
+			"category": "2",
+			"date": ""
+		},
+		{
+			"id": 25,
+			"name": "Jackson X Series Dinky DK2XR Limited-Edition Electric Guitar Hot Pink",
+			"description": "The Jackson X Series Dinky DK2XR Limited-Edition electric guitar offers a next-level performance experience with features and appointments for the price-conscious musician. Precisely crafted, it includes a poplar body with sculpted shredder’s cut heel for quick access to the upper frets, as well as a bolt-on maple neck with satin back finish for smooth playability, scarf joint for reduced playing fatigue and graphite reinforcement for stability against climate changes and environmental duress. Featuring rolled edges, 24 jumbo frets and inverted pearloid sharkfin inlays, the 12”-16” compound radius laurel fingerboard is the ideal platform for heavy chording and fast, ripping solos.The DK2XR is loaded with Jackson high-output humbucking pickups for full, rich tone with maximum overdrive and sustain. Explore this instrument’s sonic palette with a three-way pickup blade switch and single volume and tone controls, and dive bomb at will with reliable tuning stability from the Jackson-branded Floyd Rose-licensed double-locking tremolo bridge system.",
+			"image": "/img/electric/17-720x720.webp",
+			"price": "599.99",
+			"rating": "",
+			"category": "2",
+			"date": ""
+		},
+		{
+			"id": 26,
+			"name": "ESP LTD Arrow 1000 EverTune Electric Guitar Black",
+			"description": "With the ESP LTD Arrow-1000 EverTune electric, you get the bold, angular shape of the Arrow with the incredible power of the EverTune constant tension bridge system. The EverTune keeps your guitar in perfect tuning and intonation up and down the fingerboard, in nearly any conceivable environment. This guitar offers a neck-thru-body design with mahogany body, 3-piece maple neck, reverse headstock and Macassar ebony fingerboard with triangular white pearloid inlays. The sound of the Arrow-1000 EverTune is powered by a set of Fishman Fluence Modern Humbucker active pickups (alnico in the neck and ceramic in the bridge), with push-pull control to select voicings. These pickups offer an outstanding variety of huge tones that range from aggressive and punchy to smooth and articulate. The Arrow-1000 EverTune also includes stainless steel frets and precise Grover tuners.",
+			"image": "/img/electric/18-720x720.jpg",
+			"price": "1,399.00",
+			"rating": "",
+			"category": "2",
+			"date": ""
+		},
+		{
+			"id": 27,
+			"name": "ESP LTD Viper-1000 EverTune Electric Guitar Charcoal Metallic Satin",
+			"description": "The ESP LTD Viper-1000 EverTune electric guitar allows you to take advantage of the powerful and innovative EverTune constant tension bridge, ensuring that under almost any conditions, your guitar will stay in perfect tune and have accurate intonation at every point on the fingerboard. It uses set-thru construction for easy access to the highest frets with a mahogany body and three-piece mahogany neck paired with a Macassar ebony fingerboard boasting 24 extra-jumbo stainless steel frets, white pearloid ESP flag inlays and black binding on the neck and matching-finish headstock. Additional components on the Viper-1000 EverTune include Grover tuners and a set of EMG 60TW-R (neck, splittable with push-pull control) and EMG 81 (bridge) pickups, offering a variety of powerful, aggressive tones.",
+			"image": "/img/electric/18-720x720.jpg",
+			"price": "1,299.00",
+			"rating": "",
+			"category": "2",
+			"date": ""
+		},
+		{
+			"id": 28,
+			"name": "Godin ACS-SA Slim Nylon String Cedar Top Acoustic-Electric Guitar Semi-Gloss Natural",
+			"description": "The 'Slim' in this Godin ACS-SA nylon string guitar's moniker refers to the 1.715' neck width at the nut-a mere 16th of an inch wider than Godin's standard electric guitar nut width. If you do most of your playing on a guitar with a fairly narrow neck (such as most solidbody electric guitars) this is the ACS-SA guitar for you. The slim neck of the Godin ACS-SA Slim guitar along with the Ergocut shaping technique and 16' fingerboard radius provide for a very easy transition for steel string guitar players looking to integrate nylon string guitar sounds into their music. Aside from the new neck, the ACS-SA Slim shares all of the same features that have made the Godin ACS-SA nylon string guitar an industry standard. The chambered, silverleaf maple body with cedar top results in a guitar that is virtually free of feedback, making it easy to use even in loud stage situations. Synth access comes courtesy of the 13-pin connector for direct control of Roland GR Series and Axon AX100 guitar synths.",
+			"image": "/img/classical & nylon/1-720x720.webp",
+			"price": "1,799.00",
+			"rating": "4.9",
+			"category": "3",
+			"date": ""
+		},
+		{
+			"id": 29,
+			"name": "Lucero LC100 Classical Guitar Black",
+			"description": "The Lucero LC100 Classical Guitar features a laminated spruce top and mahogany back and sides. An excellent guitar for the beginner. Case sold separately.",
+			"image": "/img/classical & nylon/2-720x720.jpg",
+			"price": "159.99",
+			"rating": "4.3",
+			"category": "3",
+			"date": ""
+		},
+		{
+			"id": 30,
+			"name": "Ibanez GA Series GA5TCE Thinline Classical Acoustic-Electric Guitar Natural",
+			"description": "The Ibanez GA5TCE Classical Acoustic-Electric Guitar has a thinline classical cutaway body with a spruce top and mahogany back and sides. The mahogany neck features a 14th fret neck/body joint and a rosewood fretboard. Gold hardware and classical tuning machines. The narrower neck plays easily, especially for those used to steel string guitar necks. An Ibanez piezo pickup and 3-band EQ let you amplify the sound of the nylon strings with full fidelity.",
+			"image": "/img/classical & nylon/3-720x720.webp",
+			"price": "279.99",
+			"rating": "4.0",
+			"category": "3",
+			"date": ""
+		},
+		{
+			"id": 31,
+			"name": "Kremona F65CW Fiesta Cutaway Acoustic-Electric Classical Guitar Natural",
+			"description": "Handcrafted in Bulgaria, the Fiesta Cutaway Acoustic-Electric Classical Guitar represents the culmination of over 80 years of guitar building by Kremona. With a winning combination of solid and laminate woods and impeccable workmanship, this guitar will satisfy anyone looking for a superior nylon-string acoustic-electric guitar.The Fiesta Cutaway features a solid rosewood back and laminated sides with a solid German spruce top for a bright and full sound. The Spanish cedar neck has an ebony fingerboard and 25-5/8 in. scale length leading to a ebony bridge.Other refinements include a dual ebony headstock overlay, birch body binding, fine rosewood purfling, a stylized multicolor rosette and rosewood tuners.The Fiesta is equipped with a dual-source Fishman Prefex Pro Blend pickup system for maximum acoustic accuracy when playing through an amplifier or PA. The system features a 3-band EQ with contour frequency control, a notch filter and phase switch to fight feedback, and a blend control to change the balance between the pickup and the internal microphone.Kremona is a privately owned and operated facility in Bulgaria that employs more than 100 people and craftsman. In a modern world Kremona builds on its rich traditional history of workmanship and excellence. Using only the finest in local materials as well as imported materials Kremona continues to improve the look, feel and playability of its instruments from the comprehensive line of guitars to the specialized master violins and stringed instruments.",
+			"image": "/img/classical & nylon/4-720x720.webp",
+			"price": "1,299.00",
+			"rating": "5.0",
+			"category": "3",
+			"date": ""
+		},
+		{
+			"id": 32,
+			"name": "Kremona F65CW Fiesta Cutaway Acoustic-Electric Classical Guitar Natural",
+			"description": "Handcrafted in Bulgaria, the Fiesta Cutaway Acoustic-Electric Classical Guitar represents the culmination of over 80 years of guitar building by Kremona. With a winning combination of solid and laminate woods and impeccable workmanship, this guitar will satisfy anyone looking for a superior nylon-string acoustic-electric guitar.The Fiesta Cutaway features a solid rosewood back and laminated sides with a solid German spruce top for a bright and full sound. The Spanish cedar neck has an ebony fingerboard and 25-5/8 in. scale length leading to a ebony bridge.Other refinements include a dual ebony headstock overlay, birch body binding, fine rosewood purfling, a stylized multicolor rosette and rosewood tuners.The Fiesta is equipped with a dual-source Fishman Prefex Pro Blend pickup system for maximum acoustic accuracy when playing through an amplifier or PA. The system features a 3-band EQ with contour frequency control, a notch filter and phase switch to fight feedback, and a blend control to change the balance between the pickup and the internal microphone.Kremona is a privately owned and operated facility in Bulgaria that employs more than 100 people and craftsman. In a modern world Kremona builds on its rich traditional history of workmanship and excellence. Using only the finest in local materials as well as imported materials Kremona continues to improve the look, feel and playability of its instruments from the comprehensive line of guitars to the specialized master violins and stringed instruments.",
+			"image": "/img/classical & nylon/3-720x720.webp",
+			"price": "1,299.00",
+			"rating": "5.0",
+			"category": "3",
+			"date": ""
+		},
+		{
+			"id": 33,
+			"name": "Kremona Rondo Thin Line Classical Acoustic-Electric Guitar Natural",
+			"description": "Kremona's acoustic-electric Performer Series is designed for players demanding handcrafted tradition and the option to plug in and be heard from the stage. The Rondo Thin Line ships with a Fishman Classic 3 pickup system - designed to capture the balance and warmth of a nylon-string guitar.Featuring a laminated walnut body with a solid spruce top, the Rondo TL is accentuated by a soft Venetian cutaway that allows exploration of the upper frets. Other accoutrements include an African mahogany neck, Indian rosewood fingerboard, wood binding and rosette, and gold-plated machine heads with amber buttons.",
+			"image": "/img/classical & nylon/4-720x720.webp",
+			"price": "899.00",
+			"rating": "5.0",
+			"category": "3",
+			"date": ""
+		},
+		{
+			"id": 34,
+			"name": "Cordoba Fusion Orchestra CE Crossover Classical Acoustic-Electric Guitar Teardrop Sunburst",
+			"description": "The Orchestra CE is one of Cordoba's best-selling crossover guitars. With a solid Canadian cedar top and rosewood back and sides, this model's main feature is its slim neck profile and only 12 frets to the body, which maximizes the amount of resonance and vibration across the soundboard. It's the perfect blend of classic Spanish designs with modern aesthetics—a hand-inlaid wooden rosette, elegant mahogany binding and a high-gloss polyurethane finish. Ready to plug in and play, the Orchestra CE comes equipped with the Fishman Presys Blend preamp.",
+			"image": "/img/classical & nylon/4-720x720.webp",
+			"price": "929.00",
+			"rating": "4.2",
+			"category": "3",
+			"date": ""
+		},
+		{
+			"id": 35,
+			"name": "Squier Classic Vibe '70s Jazz Bass V 5-String Black",
+			"description": "The Classic Vibe ‘70s Jazz Bass V is a nod to the 1970s evolution of the J Bass, combining the luxurious playability that made it famous with the versatility and massive tone of its dual Fender- Designed alnico single-coil pickups.Player friendly features include a slim and comfortable “C”-shaped neck profile with an easy-playing 9.5”-radius fingerboard and narrow-tall frets as well as a vintage-style bridge with slotted barrel saddles.This throwback Squier model also features 1970s inspired headstock markings, nickel-plated hardware and a slick vintage-tinted gloss neck finish for an old-school aesthetic vibe. Case sold separately.",
+			"image": "/img/bass/1-720x720.jpg",
+			"price": "499.00",
+			"rating": "4.2",
+			"category": "4",
+			"date": ""
+		},
+		{
+			"id": 36,
+			"name": "Squier Classic Vibe Jaguar Bass Black",
+			"description": "The Classic Vibe Jaguar Bass turns up the volume on retro style, combining the iconic body shape of the Jaguar with the massive tone of its Fender-Designed alnico pickups.Player-friendly features include a slim, comfortable “C”-shaped neck profile with an easy-playing 9.5'-radius fingerboard and narrow-tall frets as well as a vintage-style bridge with slotted barrel saddles.This throwback Squier model also features 1970s-inspired headstock markings, rich-looking nickel-plated hardware and a slick vintage-tint gloss neck finish for an old-school vibe. Case sold separately.",
+			"image": "/img/bass/2-720x720.jpg",
+			"price": "489.00",
+			"rating": "4.3",
+			"category": "4",
+			"date": ""
+		},
+		{
+			"id": 37,
+			"name": "Squier Classic Vibe Jaguar Bass Black",
+			"description": "The NS-5XL 5-string electric bass guitar from Spector is a true modern classic. The distinct curves of this bass have attracted professional bassists from around the world and beyond as well as its world-class design elements. The neck-through construction of the Spector NS-5XL provides players with incredible stability and sustain, bringing a level of definition to the bass that players look for. The combination of EMG humbuckers and a HAZ preamp help provide the famous 'Spector growl.'",
+			"image": "/img/bass/3-720x720.webp",
+			"price": "6,999.99",
+			"rating": "4.3",
+			"category": "4",
+			"date": ""
+		},
+		{
+			"id": 38,
+			"name": "Squier Paranormal Series Jazz Bass '54 Maple Fingerboard Black",
+			"description": "The Paranormal Jazz Bass ’54 turns fiction into reality, combining the easy playability and tonal versatility of the J Bass with the classic looks of its older sibling, the 1954 Precision Bass. This bass is easy to play thanks to its “C”-shaped neck profile and narrow 1.5” nut width and offers out-of-this-world tone courtesy of its dual Fender-Designed alnico single-coil pickups.Further refinements include a vintage-style bridge and tuning machines, dual concentric volume and tone controls, and a sprawling ’50s-style pickguard that transports the Jazz Bass back in time. Case sold separately.",
+			"image": "/img/bass/4-720x720.webp",
+			"price": "449.99",
+			"rating": "4.3",
+			"category": "4",
+			"date": ""
+		},
+		{
+			"id": 39,
+			"name": "Fender Player Jazz Bass Plus Top Limited-Edition Blue Burst",
+			"description": "This limited-edition Player Jazz Bass Plus Top in Blue Burst delivers everything a bass player expects from a traditional Jazz Bass, but adds a stunning flame maple veneer. Loaded with Player Jazz Bass pickups, this bass is powerful and articulate with well-balanced tone for any number of playing styles. The Blue Burst finish over flame maple makes this bass as stunning visually as it is sonically.",
+			"image": "/img/bass/5-720x720.webp",
+			"price": "879.99",
+			"rating": "4.2",
+			"category": "4",
+			"date": ""
+		},
+		{
+			"id": 40,
+			"name": "Sterling by Music Man StingRay Ray34 Burl Top Rosewood Fingerboard Electric Bass Neptune Blue Satin",
+			"description": "Modeled after one of the most iconic bass guitars in history, the Sterling by Music Man StingRay Ray34 is an essential addition to any player’s collection. Now available at Guitar Center, this 4-string bass features the classic StingRay design with modern upgrades and an exotic look, all at a price that’s attainable for players at any level. Its solid, roadworthy body features the modern contoured StingRay design players have come to know and love, which also makes it supremely comfortable to play. Its roasted maple neck and rosewood fingerboard add to the super-smooth playing experience. And for that big and bold tone, the Ray34 is loaded with a single Sterling by Music Man-designed alnico humbucking pickup with a 3-band active preamp, so you can dial in that classic StingRay sound. Giving it an exotic look, this StingRay Ray34 features a poplar burl top with a transparent pickguard, making it a standout in any collection. It comes with a deluxe Sterling by Music Man gig bag so you’re ready to roll wherever the music takes you. Pick up and play a StingRay Ray34 and you may never put it down.",
+			"image": "/img/bass/6-720x720.webp",
+			"price": "979.99",
+			"rating": "4.2",
+			"category": "4",
+			"date": ""
+		},
+		{
+			"id": 41,
+			"name": "Sterling by Music Man StingRay Ray34HH Spalted Maple Top Maple Fingerboard Electric Bass Natural Burst Satin",
+			"description": "Modeled after one of the most iconic bass guitars in history, the Sterling by Music Man StingRay Ray34HH electric bass is an essential addition to any player’s collection. Now available at Guitar Center, this 4-string bass features the classic StingRay design with modern upgrades, all at a price that’s attainable for players at any level. Its solid, roadworthy body features the modern contoured StingRay design players have come to know and love, which also makes it supremely comfortable to play. The solidbody is topped with spalted maple and a transparent pickguard, adding a unique and natural look to this versatile and classic bass. Its roasted maple neck and fingerboard add to the super-smooth playing experience. And for that big and bold tone, the Ray34HH is loaded with two Sterling by Music Man-designed alnico humbucking pickup with a 3-band active preamp, so you can dial in that classic StingRay sound. It comes with a deluxe Sterling by Music Man gig bag so you’re ready to roll wherever the music takes you. Pick up and play a StingRay Ray34HH and you may never put it down.",
+			"image": "/img/bass/7-720x720.webp",
+			"price": "1,079.99",
+			"rating": "",
+			"category": "4",
+			"date": ""
+		},
+		{
+			"id": 42,
+			"name": "Squier Classic Vibe '60s Precision Bass Limited Edition Sonic Blue",
+			"description": "A tribute to the decade that made the P Bass an icon, the Classic Vibe ‘60s Precision Bass embodies the aesthetics of the original and produces massive tone courtesy of its Fender-Designed alnico split-coil pickup. Player-friendly features include a slim, comfortable C neck profile with an easy-playing 9.5”-radius fingerboard and narrow-tall frets, as well as a vintage-style bridge with threaded saddles. This throwback Squier model also features 1960s-inspired headstock markings, rich-looking nickel-plated hardware and a slick vintage-tint gloss neck finish for an old-school vibe.",
+			"image": "/img/bass/8-720x720.webp",
+			"price": "479.99",
+			"rating": "5",
+			"category": "4",
+			"date": ""
+		},
+		{
+			"id": 43,
+			"name": "Squier Affinity Series Jazz Bass Charcoal Frost Metallic",
+			"description": "The Jazz Bass joins Squier’s popular Affinity Series to bring affordable Fender style to aspiring bassists. Revamped for the beginning player, the Affinity Series Jazz Bass is built with a thin C neck for a supremely comfortable feel. Two single-coil Jazz Bass pickups, both newly voiced for character and balance, deliver classic bass tone with bright highs, clear mids and a punchy low-end. With vintage-style open-gear tuners and a 4-saddle bass bridge, this entry-level bass guitar makes classic Fender design available to players of all budgets. A true value regardless of skill set, the Affinity Series Jazz Bass is now available at Guitar Center.",
+			"image": "/img/bass/9-720x720.webp",
+			"price": "299.99",
+			"rating": "5",
+			"category": "4",
+			"date": ""
+		},
+		{
+			"id": 44,
+			"name": "Squier Affinity Series Precision Bass PJ Charcoal Frost Metallic",
+			"description": "The Precision Bass PJ joins Squier’s popular Affinity Series to bring affordable Fender style to aspiring bassists. Revamped for the beginning player, the Affinity Series Precision Bass is built with a slim, lightweight body and a thin C neck for a supremely comfortable feel. A standard split single-coil in the neck and an extra single-coil in the bridge, both newly voiced for character and balance, provide a wide tonal range to explore. With vintage-style open-gear tuners and a 4-saddle bass bridge, this entry-level PJ bass guitar makes classic Fender design available to players of all budgets. A true value regardless of skill set, the Affinity Series Precision Bass is now available at Guitar Center.",
+			"image": "/img/bass/10-720x720.jpg",
+			"price": "299.99",
+			"rating": "4",
+			"category": "4",
+			"date": ""
+		},
+		{
+			"id": 45,
+			"name": "Jackson Pro Series Spectra SBP IV Electric Bass Cherry Burst",
+			"description": "",
+			"image": "/img/bass/11-720x720.webp",
+			"price": "899.99",
+			"rating": "5",
+			"category": "4",
+			"date": ""
+		},
+		{
+			"id": 46,
+			"name": "Sterling by Music Man Stingray Ray34HH Burl Top Electric Bass Trans Black Satin",
+			"description": "The StingRay Ray34HH electric bass features a roasted maple neck, 5-way switching and a transparent finish to expose the beauty of the wood grain and give a timely twist to a classic design.",
+			"image": "/img/bass/11-720x720.webp",
+			"price": "1,079.99",
+			"rating": "5",
+			"category": "4",
+			"date": ""
+		}
+	]
+}

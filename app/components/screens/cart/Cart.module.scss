@@ -1,0 +1,19 @@
+.wrapper {
+  @apply p-5 flex flex-row flex-wrap mx-auto text-center justify-between text-white bg-stone-800 h-[82px];
+}
+
+.link {
+  @apply ml-10 cursor-pointer p-2.5  h-[48px] text-center;
+}
+
+.themeIcon {
+  @apply flex flex-row mr-10 p-2.5;
+  .tIconBg {
+    @apply mr-8 w-[30px] rounded-full bg-slate-600 cursor-pointer;
+  }
+}
+
+.background {
+  @apply h-[100vh];
+  background-color: var(--background);
+}

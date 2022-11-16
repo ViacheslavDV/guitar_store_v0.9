@@ -1,0 +1,32 @@
+.wrapper {
+  @apply p-5 flex flex-row flex-wrap mx-auto text-center justify-around text-white bg-stone-800 min-h-[82px];
+}
+.logo {
+  @apply cursor-pointer p-2.5  h-[48px] w-[100%] text-center max-xl:mx-auto;
+}
+
+.search {
+  @apply p-2.5;
+}
+
+.buttons {
+  @apply flex flex-row p-2.5;
+  .buttonsBg {
+    @apply mr-8 w-[30px] rounded-full bg-slate-600 cursor-pointer;
+  }
+}
+
+.MDNIcon {
+  @apply h-[26px] w-[22px];
+}
+
+.MDOIcon {
+  @apply h-[24px] w-[22px] ml-1 mt-[2px];
+}
+
+.cart {
+  @apply w-[46px] rounded-full bg-emerald-400 cursor-pointer;
+  .cartIcon {
+    @apply h-[26px] w-[22px] ml-3;
+  }
+}

@@ -1,0 +1,19 @@
+.wrapper {
+  @apply flex flex-row border-opacity-30  rounded-xl w-[300px];
+}
+
+.container {
+  @apply flex flex-row;
+}
+
+.input {
+  @apply h-[26px] ml-2 rounded-xl p-3 w-[280px] bg-transparent placeholder:opacity-70;
+}
+
+.search {
+  @apply h-[26px] w-[22px] cursor-pointer absolute ml-[262px];
+}
+
+.clear {
+  @apply h-[26px] w-[22px] absolute ml-2;
+}

@@ -1,0 +1,16 @@
+.container {
+  @apply w-[100%];
+  background-color: var(--background);
+}
+
+.items {
+  @apply p-5 max-w-[1400px] mx-auto;
+}
+
+.info {
+  @apply flex mx-auto text-center justify-center;
+}
+
+.items {
+  @apply flex flex-row flex-wrap justify-center pb-28;
+}

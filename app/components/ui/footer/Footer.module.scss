@@ -1,0 +1,11 @@
+.wrapper {
+  @apply p-5 flex flex-row flex-wrap mx-auto text-center justify-between text-white bg-stone-800 h-[82px] fixed bottom-0 pt-6 w-[100%];
+}
+
+.container {
+  @apply flex flex-row mx-auto;
+}
+
+.icon {
+  @apply mx-2 h-9 w-5;
+}
